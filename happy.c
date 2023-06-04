@@ -1,11 +1,11 @@
 /* 
-  @wi.implements drivepilot/DP-528 polarion tracker code0604
+  @wi.implements drivepilot/DP-471 polarion tracker code0604
 */
 void test(void)
 {
 }
 
-//@wi.implements drivepilot/DP-528 polarion tracker code0604002
+//@wi.implements drivepilot/DP-471 polarion tracker code0604002
 void test1(void) 
 {
 }
